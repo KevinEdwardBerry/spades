@@ -1,0 +1,22 @@
+{
+  "name": "spades",
+  "version": "1.0.0",
+  "description": "pursuit of a better spades AI",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/tap/bin/run.js test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KevinEdwardBerry/spades.git"
+  },
+  "author": "KevinEdwardBerry",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/KevinEdwardBerry/spades/issues"
+  },
+  "homepage": "https://github.com/KevinEdwardBerry/spades#readme",
+  "devDependencies": {
+    "tap": "^10.3.2"
+  }
+}
